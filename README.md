@@ -11,5 +11,5 @@ Attract mode could use some work.
 
 Needs levels, bosses, power-ups, bigger guns
 
-The currrent version is located at: https://www.crazyhappyfuntime.com/sandbox/shooter/
+The currrent version is located at: https://www.crazyhappyfuntime.com/sandbox/Annihilation/
 
